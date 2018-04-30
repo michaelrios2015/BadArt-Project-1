@@ -46,13 +46,13 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="32dp"
-                android:text="adress: Dark Sysde of the" />
+                android:text="@string/adress_dark_sysde_of_the" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="32dp"
-                android:text="email: YAKAYKAYK@YAK.COM"
+                android:text="@string/email_yakaykayk_yak_com"
                 android:autoLink="email"/>
 
 
@@ -61,19 +61,19 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="16dp"
-                android:text="About Us:" />
+                android:text="@string/about_us" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="32dp"
-                android:text="Some people like good art, we here at Miguel Rivers like bad art!!" />
+                android:text="@string/some_people_like_good_art_we_here_at_miguel_rivers_like_bad_art" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="32dp"
-                android:text="BAD ART BAD ART BAD ART BAD ART BAD ART" />
+                android:text="@string/bad_art_bad_art_bad_art_bad_art_bad_art" />
 
         </LinearLayout>
 
